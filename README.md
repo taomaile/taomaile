@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @taomaile
-- 👀 I’m interested in bioinformatics and molecular biology
+
 
 
 <!---
