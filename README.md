@@ -1,4 +1,4 @@
-Hi
+The only thing you really have in life is time....
 
 
 <!---
